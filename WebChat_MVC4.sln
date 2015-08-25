@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChat_MVC4", "WebChat_MVC4\WebChat_MVC4.csproj", "{6BE43C71-F6E4-4639-B3DA-886BECC2EB5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{919D4520-BA85-46E3-BEAE-7C5E459FF871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin.Model", "WeiXinModel\WeiXin.Model.csproj", "{C2992D3A-3E9B-494D-8DD9-F42298F1C7B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin.IDAL", "WeiXin.IDAL\WeiXin.IDAL.csproj", "{AEAC5CF7-2B72-4A40-860C-166FB3A2C68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin.DAL", "WeiXin.DAL\WeiXin.DAL.csproj", "{E79737C0-5C59-43DA-9819-CE8F57A6D1D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin.IBLL", "WeiXin.IBLL\WeiXin.IBLL.csproj", "{7BAAD536-8CBD-47E3-929E-EDCDBDBA8DB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin.BLL", "WeiXin.BLL\WeiXin.BLL.csproj", "{2BDDB7A7-2373-4694-99F0-D37675C8A320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE43C71-F6E4-4639-B3DA-886BECC2EB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE43C71-F6E4-4639-B3DA-886BECC2EB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE43C71-F6E4-4639-B3DA-886BECC2EB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE43C71-F6E4-4639-B3DA-886BECC2EB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919D4520-BA85-46E3-BEAE-7C5E459FF871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919D4520-BA85-46E3-BEAE-7C5E459FF871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919D4520-BA85-46E3-BEAE-7C5E459FF871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919D4520-BA85-46E3-BEAE-7C5E459FF871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2992D3A-3E9B-494D-8DD9-F42298F1C7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2992D3A-3E9B-494D-8DD9-F42298F1C7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2992D3A-3E9B-494D-8DD9-F42298F1C7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2992D3A-3E9B-494D-8DD9-F42298F1C7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAC5CF7-2B72-4A40-860C-166FB3A2C68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAC5CF7-2B72-4A40-860C-166FB3A2C68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAC5CF7-2B72-4A40-860C-166FB3A2C68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAC5CF7-2B72-4A40-860C-166FB3A2C68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79737C0-5C59-43DA-9819-CE8F57A6D1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79737C0-5C59-43DA-9819-CE8F57A6D1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79737C0-5C59-43DA-9819-CE8F57A6D1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79737C0-5C59-43DA-9819-CE8F57A6D1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAAD536-8CBD-47E3-929E-EDCDBDBA8DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAAD536-8CBD-47E3-929E-EDCDBDBA8DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAAD536-8CBD-47E3-929E-EDCDBDBA8DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAAD536-8CBD-47E3-929E-EDCDBDBA8DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDDB7A7-2373-4694-99F0-D37675C8A320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDDB7A7-2373-4694-99F0-D37675C8A320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDDB7A7-2373-4694-99F0-D37675C8A320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDDB7A7-2373-4694-99F0-D37675C8A320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

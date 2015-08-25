@@ -1,0 +1,4 @@
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXinModel\bin\Release\WeiXin.Model.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXinModel\bin\Release\WeiXin.Model.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXinModel\obj\Release\WeiXin.Model.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXinModel\obj\Release\WeiXin.Model.pdb

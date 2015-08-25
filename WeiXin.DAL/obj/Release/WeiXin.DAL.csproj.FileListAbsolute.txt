@@ -1,0 +1,11 @@
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\bin\Release\WeiXin.DAL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\bin\Release\WeiXin.DAL.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\bin\Release\Common.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\bin\Release\WeiXin.IDAL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\bin\Release\WeiXin.Model.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\bin\Release\Common.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\bin\Release\WeiXin.IDAL.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\bin\Release\WeiXin.Model.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\obj\Release\WeiXin.DAL.csprojResolveAssemblyReference.cache
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\obj\Release\WeiXin.DAL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.DAL\obj\Release\WeiXin.DAL.pdb

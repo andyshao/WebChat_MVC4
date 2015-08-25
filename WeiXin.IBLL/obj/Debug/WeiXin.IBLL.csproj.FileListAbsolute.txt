@@ -1,0 +1,5 @@
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.IBLL\bin\Debug\WeiXin.IBLL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.IBLL\bin\Debug\WeiXin.IBLL.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.IBLL\obj\Debug\WeiXin.IBLL.csprojResolveAssemblyReference.cache
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.IBLL\obj\Debug\WeiXin.IBLL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.IBLL\obj\Debug\WeiXin.IBLL.pdb

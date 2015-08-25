@@ -1,0 +1,5 @@
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\Common\bin\Release\Common.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\Common\bin\Release\Common.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\Common\obj\Release\Common.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\Common\obj\Release\Common.pdb

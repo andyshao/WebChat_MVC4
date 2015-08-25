@@ -1,0 +1,15 @@
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.BLL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.BLL.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\Common.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.DAL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.IBLL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.IDAL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.Model.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\Common.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.DAL.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.IBLL.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.IDAL.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\bin\Debug\WeiXin.Model.pdb
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\obj\Debug\WeiXin.BLL.csprojResolveAssemblyReference.cache
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\obj\Debug\WeiXin.BLL.dll
+C:\Users\yangp\Desktop\WebChat_MVC4\WebChat_MVC4\WeiXin.BLL\obj\Debug\WeiXin.BLL.pdb
